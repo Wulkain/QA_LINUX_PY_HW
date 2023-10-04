@@ -1,0 +1,16 @@
+remote_path: /home/user2/
+local_path: /home/axidar/tst
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_badarx: /home/user2/tst/badarx
+
+count_file: 5
+size_file: 1M
+arc_type: zip
+bad_arc_type: rir
+
+host: 0.0.0.0
+user: user2
+
+stat_file: stat.txt
